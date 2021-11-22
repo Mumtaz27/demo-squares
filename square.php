@@ -9,7 +9,7 @@
 .square {
   display: block;
   float: left;
-  border: 1px red;
+  border: 1px outset red;
   width: 50px;
   height: 50px;
   margin: 30px;
