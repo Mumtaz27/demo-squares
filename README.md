@@ -1,3 +1,9 @@
 # demo-squares
 sample demo of php test
-hello
+
+# description
+blabla
+
+# how to run
+install ampps
+put your files ...
